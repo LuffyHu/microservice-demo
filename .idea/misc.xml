@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/mircorservice-eureka-7001/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-provider-dept-8001/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-eureka-7001/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-provider-dept-hystrix-8001/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
