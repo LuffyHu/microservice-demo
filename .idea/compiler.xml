@@ -7,6 +7,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="microservice-config" />
         <module name="microservice-consumer-dept" />
         <module name="microservice-consumer-dept-feign" />
         <module name="microservice-consumer-dept-hystrix-dashboard" />
@@ -22,6 +23,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="microservice-cloud-config" target="1.8" />
+      <module name="microservice-cloud-config-server" target="1.8" />
       <module name="microservice-provider-user-2" target="1.8" />
       <module name="microservice-provider-user-3" target="1.8" />
       <module name="microserviceeureka" target="1.8" />

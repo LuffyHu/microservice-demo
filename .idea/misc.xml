@@ -14,6 +14,8 @@
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/microservice-cloud-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-cloud-config/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-eureka/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-provider-dept-2/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-provider-dept-3/pom.xml" />
